@@ -20,3 +20,17 @@ npm install
 node server.js
 
 Server runs on: http://localhost:4000
+
+## 📸 Project Screenshots
+
+### 🧠 AI Agent Workflow
+![AI Agent Workflow](screenshots/AI_AGENT_WORKFLOW.png)
+
+### 📊 Flow Diagram
+![Flow Diagram](screenshots/flow_diagram.png)
+
+### 📸 Instagram Post
+![Instagram](screenshots/INSTA.jpeg)
+
+### ✈ Telegram Post
+![Telegram](screenshots/TELE.jpeg)
